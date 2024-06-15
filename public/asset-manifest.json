@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.48885b2c.css",
+    "main.js": "/static/js/main.9fe400fb.js",
+    "static/media/multi.png": "/static/media/multi.a978aa15e2c105e55ece.png",
+    "static/media/secure.png": "/static/media/secure.4bcef2b50ed3a45d8d18.png",
+    "static/media/froud.png": "/static/media/froud.23a626837904e39fac74.png",
+    "static/media/realtime.png": "/static/media/realtime.da7180fb5b1806b35ba5.png",
+    "static/media/easypropaylogo.png": "/static/media/easypropaylogo.16c33600123a913255de.png",
+    "static/media/contact-bg.jpg": "/static/media/contact-bg.964aa7fe8c2559bdd2c3.jpg",
+    "static/media/api.png": "/static/media/api.766df802464b0db89e7d.png",
+    "index.html": "/index.html",
+    "main.48885b2c.css.map": "/static/css/main.48885b2c.css.map",
+    "main.9fe400fb.js.map": "/static/js/main.9fe400fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48885b2c.css",
+    "static/js/main.9fe400fb.js"
+  ]
+}
